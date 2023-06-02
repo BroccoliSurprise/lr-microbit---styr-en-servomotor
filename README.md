@@ -13,7 +13,9 @@ for (let index = 0; index < 4; index++) {
     basic.pause(500)
 }
 ```
+## Steg 2
 
+Tallene du sender til servomotoren må være mellom 0 og 180. Ser du hva tallene betyr?
 
 ```ghost
 basic.showNumber(0-0)
